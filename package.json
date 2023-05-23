@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "dotenv nodemon server.js"
+    "start": "dotenv-load nodemon server.js"
   },
   "keywords": [],
   "author": "",
